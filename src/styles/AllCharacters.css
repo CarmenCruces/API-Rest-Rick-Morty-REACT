@@ -1,0 +1,12 @@
+.allpic {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    border: 10px solid rgb(199, 237, 110);
+}
+.onepic {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    border: 12px solid rgb(102, 167, 189);
+}
